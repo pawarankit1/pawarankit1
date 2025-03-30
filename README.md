@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack  
 - **Languages:** Java, Python, SQL, SOQL  
-- **Tools & Frameworks:** Selenium, Playwright, Appium, Cucumber, Robot Framework, Gatling, JMeter, Postman, Rest Assured  
+- **Tools & Frameworks:** Selenium, Playwright, Appium, Cucumber, Provar,Junit, Salesforce, Gatling, JMeter, Postman, Rest Assured  
 - **CI/CD & Cloud:** Docker, Jenkins, GitHub Actions, Azure, AWS  
 
 ## 📌 Recent Contributions  
