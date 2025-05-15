@@ -6,7 +6,7 @@
 🔹 Passionate about AI-driven testing, DevOps, and mentoring teams to improve software quality.  
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, Python, SQL, SOQL  
+- **Languages:** Java, JavaScript, SQL, SOQL  
 - **Tools & Frameworks:** Selenium, Playwright, Appium, Cucumber, Provar,Junit, Salesforce, Gatling, JMeter, Postman, Rest Assured  
 - **CI/CD & Cloud:** Docker, Jenkins, GitHub Actions, Azure, AWS  
 
