@@ -6,11 +6,12 @@
 🔹 Passionate about AI-driven testing, DevOps, and mentoring teams to improve software quality.  
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, JavaScript, SQL, SOQL  
+- **Languages:** Java, JavaScript/Typescript, SQL, SOQL  
 - **Tools & Frameworks:** Selenium, Playwright, Appium, Cucumber, Provar,Junit, Salesforce, Gatling, JMeter, Postman, Rest Assured  
 - **CI/CD & Cloud:** Docker, Jenkins, GitHub Actions, Azure, AWS  
 
 ## 📌 Recent Contributions  
+- Helping organisation to build scalable test automation framework.
 - Migrated Jenkins pipelines to GitHub Actions for scalable automation.  
 - Led end-to-end release testing and performance validation for cloud-based applications.  
 - Implemented multi-threaded parallel execution, cutting test execution time significantly.  
